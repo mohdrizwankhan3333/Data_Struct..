@@ -1,0 +1,13 @@
+13. Find the longest consecutive sequence in an array.
+Strings
+Concepts to Learn: Basic string operations, string manipulations,
+pattern matching.
+14. Reverse a string.
+15. Check if a string is a palindrome.
+16. Remove spaces from a string.
+17. Find the first non-repeating character in a string.
+
+18. Implement string compression (e.g., "aabcccccaaa" →
+"a2b1c5a3").
+19. Find the longest substring without repeating characters.
+20. Implement strstr (substring search).
